@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="203eea2c-1380-4bdd-b9f0-7f6e20487b9a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Components/TrainerSide.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assets/css/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assets/css/layout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/NavBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/NavBar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/SideNav.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/SideNav.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Views/Booking.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Views/Booking.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Views/Center.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Views/Center.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Views/DashBoard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Views/DashBoard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Views/Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Views/Login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Views/LoginTrainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Views/LoginTrainer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Views/SignUp.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Views/SignUp.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Y7gh79I8hqRHzmB6zaUES5f5qk" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Assets/images" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rockt\OneDrive\Desktop\trialbooking\src\Assets\images" />
+      <recent name="C:\Users\rockt\OneDrive\Desktop\trialbooking\src\Views" />
+      <recent name="C:\Users\rockt\OneDrive\Desktop\trialbooking\src\Assets\css" />
+      <recent name="C:\Users\rockt\OneDrive\Desktop\trialbooking-master\src\Assets\images" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="203eea2c-1380-4bdd-b9f0-7f6e20487b9a" name="Default Changelist" comment="" />
+      <created>1582299163490</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582299163490</updated>
+      <workItem from="1582299171606" duration="2319000" />
+      <workItem from="1582352927012" duration="2643000" />
+      <workItem from="1582357088619" duration="8011000" />
+      <workItem from="1582371765104" duration="2169000" />
+      <workItem from="1582374876317" duration="3965000" />
+      <workItem from="1582432716420" duration="11678000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="519" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582378585885">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="519" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1582378585885" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582372774727">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1582372774727" />
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1582301506818">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582301506818" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1582301506818">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582301506818" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1582301506818">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582301506818" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1582301506818">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582301506818" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1582376893116">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1582376893116" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1582376950256">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1582376950256" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/Components/SideNav.js</url>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
